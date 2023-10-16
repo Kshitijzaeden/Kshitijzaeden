@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Kshitij Singh</h1>
 <h3 align="center">A passionate Data Science Enthusiast and Frontend Deveploper from India</h3>
-<img align="right" alt="Coding" width="300" src="https://media4.giphy.com/media/06vbLCWUQcDKGFVjPt/200w.gif?cid=6c09b952s9p7fjwkbvs790oj6z0bbu1bs5hdqwhsuwu7fr1v&ep=v1_gifs_search&rid=200w.gif&ct=g">
+<img align="right" alt="Coding" width="350" src="https://media4.giphy.com/media/06vbLCWUQcDKGFVjPt/200w.gif?cid=6c09b952s9p7fjwkbvs790oj6z0bbu1bs5hdqwhsuwu7fr1v&ep=v1_gifs_search&rid=200w.gif&ct=g">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kshitijzaeden&label=Profile%20views&color=0e75b6&style=flat" alt="kshitijzaeden" /> </p>
 
