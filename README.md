@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Machine Learning, NLP, Deep learning**
 
-- 💬 Ask me about **Python, SQL, Machine Learning, Data Visualization Vis**
+- 💬 Ask me about **Python, SQL, Machine Learning, Data Visualization**
 
 - 📫 How to reach me **kshitijxosedeth@gmail.com**
 
